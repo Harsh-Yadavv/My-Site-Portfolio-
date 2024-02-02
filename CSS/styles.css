@@ -51,6 +51,8 @@ hr {
     width: 25%;
     float: left;
     margin: auto 1.875rem auto auto;
+    border-radius: 25px;
+
 }
 .skill-img2 {
     width: 25%;
